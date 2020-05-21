@@ -1,7 +1,8 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Learning GitHub"
 ---
-*My witty quotation or meme*
-Your text
-Use the left arrow to go back!
+# Why learn github?
+- It's fun
+- It can be useful
+- You'll feel cool, probably
